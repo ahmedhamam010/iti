@@ -1,0 +1,37 @@
+git config --global user.name "ahmedhamam010"
+
+git config --global user.email "ahmedhamam454546@gmail.com"
+
+git init
+
+touch os_40_3m
+
+git add os_40_3m
+
+git status
+
+git commit -m "add filw named os_40_3m"
+
+git remote add origin https://github.com/ahmedhamam010/iti.git
+
+git push -u origin master
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+mkdir cloneProject
+
+git init
+
+git clone https://github.com/Marwan-Amin/Git-Lab1.git
+
+git add os_40_3m
+
+git status
+
+git commit -m "add filw named os_40_3m"
+
+
+git push -u origin master
+
+
